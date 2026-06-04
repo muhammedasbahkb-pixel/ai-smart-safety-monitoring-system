@@ -61,15 +61,15 @@ Sensor → ESP8266 → Python ML Model → Flask Server → Safety Prediction
 
 ## 👨‍💻 Team Members
 
-- Member 1
-- Member 2
-- Member 3
+- Muhammed Asbah KB
+- -Ihsan
+-Tamiz K
 
 ---
 
 ## 🏆 Achievement
 
-Second Prize Winner - College Project Competition
+Second Prize Winner - Launch Pad -innovators expo 
 
 ---
 
